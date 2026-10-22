@@ -2,3 +2,5 @@ No, Name, ID, favouriteGame, Date
 1, Hoh Siew Yan, 12345 , Alan Wake 2, 09/04/2026
 2, Shen Hongming, 2209505, GTA5, 09/04/2026
 3, DS, 2303671, GTA6, 22/10/2026
+4,DS,2303677, Valorant, 05/11/2005
+5.DS2, 2303671, CS2, 05/11/2005
